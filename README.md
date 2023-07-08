@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIVEK KADIYAN</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkadiyan&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkadiyan" /> </p>
+<p align="left"> <img src="https://C:\Users\vivek\Downloads\vivek kadiyan.jpg /> </p>
 
 - 📫 How to reach me **kadiyanvivek0455@gmail.com**
 
